@@ -27,7 +27,7 @@ def formatdata(data):
     """
     for debugging
 
-    this function takes a string and determins if it's json.  If it is
+    this function takes a string and determines if it's json.  If it is
     it will return a nicely formatted form of it.
 
     :param data:
